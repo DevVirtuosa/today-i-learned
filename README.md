@@ -1,2 +1,2 @@
 Vercel: https://vercel.com/devvirtuosas-projects/today-i-learned/A7icZT1NGMGbeD9Z5thsQaquZMVJ <br><br>
-*Note: This project is still in progress.*
+*This React app allows users to share interesting facts with the world! Users can submit new facts with a category and source, and vote on existing facts as Interesting, Mind-blowing, or False. The app includes a form to submit facts, a filter for viewing facts by category, and displays the most interesting facts first. Facts are fetched from a Supabase database, making it easy to manage and persist data.*
